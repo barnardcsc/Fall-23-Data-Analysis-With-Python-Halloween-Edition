@@ -1,0 +1,1066 @@
+[
+  {
+    "Accused Witch": "Abbott, Arthur",
+    "Residence": "Ipswich",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 1
+  },
+  {
+    "Accused Witch": "Abbott, Nehemiah, Jr.",
+    "Residence": "Topsfield",
+    "Month of Accusation": 4,
+    "Month of Execution": "",
+    "Sort": 2
+  },
+  {
+    "Accused Witch": "Alden, John",
+    "Residence": "Boston",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 3
+  },
+  {
+    "Accused Witch": "Andrew, Daniel",
+    "Residence": "Salem Village",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 4
+  },
+  {
+    "Accused Witch": "Barker, Abigail",
+    "Residence": "Andover",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 5
+  },
+  {
+    "Accused Witch": "Barker, Mary",
+    "Residence": "Andover",
+    "Month of Accusation": 8,
+    "Month of Execution": "",
+    "Sort": 6
+  },
+  {
+    "Accused Witch": "Barker, William Jr.",
+    "Residence": "Andover",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 7
+  },
+  {
+    "Accused Witch": "Barker, William Sr.",
+    "Residence": "Andover",
+    "Month of Accusation": 8,
+    "Month of Execution": "",
+    "Sort": 8
+  },
+  {
+    "Accused Witch": "Bassett, Sarah",
+    "Residence": "Lynn",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 9
+  },
+  {
+    "Accused Witch": "Bishop, Bridget",
+    "Residence": "Salem Town",
+    "Month of Accusation": 4,
+    "Month of Execution": 6,
+    "Sort": 10
+  },
+  {
+    "Accused Witch": "Bishop, Edward Jr.",
+    "Residence": "Salem Village",
+    "Month of Accusation": 4,
+    "Month of Execution": "",
+    "Sort": 11
+  },
+  {
+    "Accused Witch": "Bishop, Sarah",
+    "Residence": "Salem Village",
+    "Month of Accusation": 4,
+    "Month of Execution": "",
+    "Sort": 12
+  },
+  {
+    "Accused Witch": "Black, Mary",
+    "Residence": "Salem Village",
+    "Month of Accusation": 4,
+    "Month of Execution": "",
+    "Sort": 13
+  },
+  {
+    "Accused Witch": "Bradbury, Mary",
+    "Residence": "Salisbury",
+    "Month of Accusation": 7,
+    "Month of Execution": "",
+    "Sort": 14
+  },
+  {
+    "Accused Witch": "Bridges, Mary Jr.",
+    "Residence": "Andover",
+    "Month of Accusation": 8,
+    "Month of Execution": "",
+    "Sort": 15
+  },
+  {
+    "Accused Witch": "Bridges, Mary Sr.",
+    "Residence": "Andover",
+    "Month of Accusation": 7,
+    "Month of Execution": "",
+    "Sort": 16
+  },
+  {
+    "Accused Witch": "Bridges, Sarah",
+    "Residence": "Andover",
+    "Month of Accusation": 8,
+    "Month of Execution": "",
+    "Sort": 17
+  },
+  {
+    "Accused Witch": "Bromage, Hannah",
+    "Residence": "Haverhill",
+    "Month of Accusation": 7,
+    "Month of Execution": "",
+    "Sort": 18
+  },
+  {
+    "Accused Witch": "Buckley, Sarah",
+    "Residence": "Salem Village",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 19
+  },
+  {
+    "Accused Witch": "Burroughs, George",
+    "Residence": "Wells, Maine",
+    "Month of Accusation": 4,
+    "Month of Execution": 8,
+    "Sort": 20
+  },
+  {
+    "Accused Witch": "Candy",
+    "Residence": "Salem Town",
+    "Month of Accusation": 7,
+    "Month of Execution": "",
+    "Sort": 21
+  },
+  {
+    "Accused Witch": "Carrier, Andrew",
+    "Residence": "Andover",
+    "Month of Accusation": 7,
+    "Month of Execution": "",
+    "Sort": 22
+  },
+  {
+    "Accused Witch": "Carrier, Martha",
+    "Residence": "Andover",
+    "Month of Accusation": 5,
+    "Month of Execution": 8,
+    "Sort": 23
+  },
+  {
+    "Accused Witch": "Carrier, Richard",
+    "Residence": "Andover",
+    "Month of Accusation": 7,
+    "Month of Execution": "",
+    "Sort": 24
+  },
+  {
+    "Accused Witch": "Carrier, Sarah",
+    "Residence": "Andover",
+    "Month of Accusation": 8,
+    "Month of Execution": "",
+    "Sort": 25
+  },
+  {
+    "Accused Witch": "Carrier, Thomas Jr.",
+    "Residence": "Andover",
+    "Month of Accusation": 8,
+    "Month of Execution": "",
+    "Sort": 26
+  },
+  {
+    "Accused Witch": "Carroll, Hannah",
+    "Residence": "Salem Town",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 27
+  },
+  {
+    "Accused Witch": "Carter, Bethia Jr.",
+    "Residence": "Woburn",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 28
+  },
+  {
+    "Accused Witch": "Carter, Bethia Sr.",
+    "Residence": "Woburn",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 29
+  },
+  {
+    "Accused Witch": "Cary, Elizabeth",
+    "Residence": "Charlestown",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 30
+  },
+  {
+    "Accused Witch": "Churchill, Sarah",
+    "Residence": "Salem Town",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 31
+  },
+  {
+    "Accused Witch": "Clark, Mary",
+    "Residence": "Haverhill",
+    "Month of Accusation": 8,
+    "Month of Execution": "",
+    "Sort": 32
+  },
+  {
+    "Accused Witch": "Clinton, Rachel",
+    "Residence": "Ipswich",
+    "Month of Accusation": 3,
+    "Month of Execution": "",
+    "Sort": 33
+  },
+  {
+    "Accused Witch": "Cloyce, Sarah",
+    "Residence": "Salem Village",
+    "Month of Accusation": 4,
+    "Month of Execution": "",
+    "Sort": 34
+  },
+  {
+    "Accused Witch": "Cole, Sarah",
+    "Residence": "Salem Town",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 35
+  },
+  {
+    "Accused Witch": "Cole, Sarah",
+    "Residence": "Lynn",
+    "Month of Accusation": 10,
+    "Month of Execution": "",
+    "Sort": 36
+  },
+  {
+    "Accused Witch": "Colson, Elizabeth",
+    "Residence": "Reading",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 37
+  },
+  {
+    "Accused Witch": "Colson, Mary",
+    "Residence": "Reading",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 38
+  },
+  {
+    "Accused Witch": "Corey, Giles",
+    "Residence": "Salem Town",
+    "Month of Accusation": 4,
+    "Month of Execution": 9,
+    "Sort": 39
+  },
+  {
+    "Accused Witch": "Corey, Martha",
+    "Residence": "Salem Town",
+    "Month of Accusation": 3,
+    "Month of Execution": 9,
+    "Sort": 40
+  },
+  {
+    "Accused Witch": "Dane, Deliverance",
+    "Residence": "Andover",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 41
+  },
+  {
+    "Accused Witch": "Day, Phebe",
+    "Residence": "Gloucester",
+    "Month of Accusation": -1,
+    "Month of Execution": "",
+    "Sort": 42
+  },
+  {
+    "Accused Witch": "DeRich, Mary",
+    "Residence": "Salem Town",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 43
+  },
+  {
+    "Accused Witch": "Dicer, Elizabeth",
+    "Residence": "Gloucester",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 44
+  },
+  {
+    "Accused Witch": "Dike, Rebecca",
+    "Residence": "Gloucester",
+    "Month of Accusation": 11,
+    "Month of Execution": "",
+    "Sort": 45
+  },
+  {
+    "Accused Witch": "Dolliver, Ann",
+    "Residence": "Salem Town",
+    "Month of Accusation": 6,
+    "Month of Execution": "",
+    "Sort": 46
+  },
+  {
+    "Accused Witch": "Downing, Mehitabel",
+    "Residence": "Ipswich",
+    "Month of Accusation": -1,
+    "Month of Execution": "",
+    "Sort": 47
+  },
+  {
+    "Accused Witch": "Draper, Joseph",
+    "Residence": "Andover",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 48
+  },
+  {
+    "Accused Witch": "Dustin, Lydia",
+    "Residence": "Reading",
+    "Month of Accusation": 4,
+    "Month of Execution": "",
+    "Sort": 49
+  },
+  {
+    "Accused Witch": "Dustin, Sarah",
+    "Residence": "Reading",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 50
+  },
+  {
+    "Accused Witch": "Eames, Daniel",
+    "Residence": "Boxford",
+    "Month of Accusation": 8,
+    "Month of Execution": "",
+    "Sort": 51
+  },
+  {
+    "Accused Witch": "Eames, Rebecca",
+    "Residence": "Boxford",
+    "Month of Accusation": 8,
+    "Month of Execution": "",
+    "Sort": 52
+  },
+  {
+    "Accused Witch": "Easty, Mary",
+    "Residence": "Topsfield",
+    "Month of Accusation": 4,
+    "Month of Execution": 9,
+    "Sort": 53
+  },
+  {
+    "Accused Witch": "Elwell, Esther",
+    "Residence": "Gloucester",
+    "Month of Accusation": 11,
+    "Month of Execution": "",
+    "Sort": 54
+  },
+  {
+    "Accused Witch": "Emerson, Martha",
+    "Residence": "Haverhill",
+    "Month of Accusation": 7,
+    "Month of Execution": "",
+    "Sort": 55
+  },
+  {
+    "Accused Witch": "Emons, Joseph",
+    "Residence": "Manchester",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 56
+  },
+  {
+    "Accused Witch": "English, Mary",
+    "Residence": "Salem Town",
+    "Month of Accusation": 4,
+    "Month of Execution": "",
+    "Sort": 57
+  },
+  {
+    "Accused Witch": "English, Phillip",
+    "Residence": "Salem Town",
+    "Month of Accusation": 4,
+    "Month of Execution": "",
+    "Sort": 58
+  },
+  {
+    "Accused Witch": "Farrer, Thomas Sr.",
+    "Residence": "Lynn",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 59
+  },
+  {
+    "Accused Witch": "Farrington, Edward",
+    "Residence": "Andover",
+    "Month of Accusation": -1,
+    "Month of Execution": "",
+    "Sort": 60
+  },
+  {
+    "Accused Witch": "Faulkner, Abigail Jr.",
+    "Residence": "Andover",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 61
+  },
+  {
+    "Accused Witch": "Faulkner, Abigail Sr.",
+    "Residence": "Andover",
+    "Month of Accusation": 8,
+    "Month of Execution": "",
+    "Sort": 62
+  },
+  {
+    "Accused Witch": "Faulkner, Dorothy",
+    "Residence": "Andover",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 63
+  },
+  {
+    "Accused Witch": "Flood, John",
+    "Residence": "Boston",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 64
+  },
+  {
+    "Accused Witch": "Fosdick, Elizabeth",
+    "Residence": "Malden",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 65
+  },
+  {
+    "Accused Witch": "Foster, Ann",
+    "Residence": "Andover",
+    "Month of Accusation": 7,
+    "Month of Execution": "",
+    "Sort": 66
+  },
+  {
+    "Accused Witch": "Frost, Nicholas",
+    "Residence": "Piscataqua, Maine",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 67
+  },
+  {
+    "Accused Witch": "Fry, Eunice",
+    "Residence": "Andover",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 68
+  },
+  {
+    "Accused Witch": "Good, Dorothy",
+    "Residence": "Salem Village",
+    "Month of Accusation": 3,
+    "Month of Execution": "",
+    "Sort": 69
+  },
+  {
+    "Accused Witch": "Good, Sarah",
+    "Residence": "Salem Village",
+    "Month of Accusation": 2,
+    "Month of Execution": 7,
+    "Sort": 70
+  },
+  {
+    "Accused Witch": "Green, Mary",
+    "Residence": "Haverhill",
+    "Month of Accusation": 7,
+    "Month of Execution": "",
+    "Sort": 71
+  },
+  {
+    "Accused Witch": "Hardy, Thomas",
+    "Residence": "Piscataqua, Maine",
+    "Month of Accusation": -1,
+    "Month of Execution": "",
+    "Sort": 72
+  },
+  {
+    "Accused Witch": "Hart, Elizabeth",
+    "Residence": "Lynn",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 73
+  },
+  {
+    "Accused Witch": "Hawkes, Margaret",
+    "Residence": "Salem Town",
+    "Month of Accusation": 7,
+    "Month of Execution": "",
+    "Sort": 74
+  },
+  {
+    "Accused Witch": "Hawkes, Sarah",
+    "Residence": "Andover",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 75
+  },
+  {
+    "Accused Witch": "Hoar, Dorcas",
+    "Residence": "Beverly",
+    "Month of Accusation": 4,
+    "Month of Execution": "",
+    "Sort": 76
+  },
+  {
+    "Accused Witch": "Hobbs, Abigail",
+    "Residence": "Topsfield",
+    "Month of Accusation": 4,
+    "Month of Execution": "",
+    "Sort": 77
+  },
+  {
+    "Accused Witch": "Hobbs, Deliverance",
+    "Residence": "Topsfield",
+    "Month of Accusation": 4,
+    "Month of Execution": "",
+    "Sort": 78
+  },
+  {
+    "Accused Witch": "Hobbs, William",
+    "Residence": "Topsfield",
+    "Month of Accusation": 4,
+    "Month of Execution": "",
+    "Sort": 79
+  },
+  {
+    "Accused Witch": "How, Elizabeth",
+    "Residence": "Ipswich",
+    "Month of Accusation": 5,
+    "Month of Execution": 7,
+    "Sort": 80
+  },
+  {
+    "Accused Witch": "Howard, John",
+    "Residence": "Rowley",
+    "Month of Accusation": 8,
+    "Month of Execution": "",
+    "Sort": 81
+  },
+  {
+    "Accused Witch": "Hutchins, Frances",
+    "Residence": "Haverhill",
+    "Month of Accusation": 8,
+    "Month of Execution": "",
+    "Sort": 82
+  },
+  {
+    "Accused Witch": "Ireson, Mary",
+    "Residence": "Lynn",
+    "Month of Accusation": 6,
+    "Month of Execution": "",
+    "Sort": 83
+  },
+  {
+    "Accused Witch": "Jackson, John Jr.",
+    "Residence": "Rowley",
+    "Month of Accusation": 8,
+    "Month of Execution": "",
+    "Sort": 84
+  },
+  {
+    "Accused Witch": "Jackson, John Sr.",
+    "Residence": "Rowley",
+    "Month of Accusation": 8,
+    "Month of Execution": "",
+    "Sort": 85
+  },
+  {
+    "Accused Witch": "Jacobs, George Jr.",
+    "Residence": "Salem Village",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 86
+  },
+  {
+    "Accused Witch": "Jacobs, George Sr.",
+    "Residence": "Salem Town",
+    "Month of Accusation": 5,
+    "Month of Execution": 8,
+    "Sort": 87
+  },
+  {
+    "Accused Witch": "Jacobs, Margaret",
+    "Residence": "Salem Town",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 88
+  },
+  {
+    "Accused Witch": "Jacobs, Rebecca",
+    "Residence": "Salem Village",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 89
+  },
+  {
+    "Accused Witch": "Johnson, Abigail",
+    "Residence": "Andover",
+    "Month of Accusation": 8,
+    "Month of Execution": "",
+    "Sort": 90
+  },
+  {
+    "Accused Witch": "Johnson, Elizabeth Jr.",
+    "Residence": "Andover",
+    "Month of Accusation": 8,
+    "Month of Execution": "",
+    "Sort": 91
+  },
+  {
+    "Accused Witch": "Johnson, Elizabeth Sr.",
+    "Residence": "Andover",
+    "Month of Accusation": 8,
+    "Month of Execution": "",
+    "Sort": 92
+  },
+  {
+    "Accused Witch": "Johnson, Rebecca Jr.",
+    "Residence": "Andover",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 93
+  },
+  {
+    "Accused Witch": "Johnson, Rebecca Sr.",
+    "Residence": "Andover",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 94
+  },
+  {
+    "Accused Witch": "Johnson, Stephen",
+    "Residence": "Andover",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 95
+  },
+  {
+    "Accused Witch": "Lacey, Mary Jr.",
+    "Residence": "Andover",
+    "Month of Accusation": 7,
+    "Month of Execution": "",
+    "Sort": 96
+  },
+  {
+    "Accused Witch": "Lacey, Mary Sr.",
+    "Residence": "Andover",
+    "Month of Accusation": 7,
+    "Month of Execution": "",
+    "Sort": 97
+  },
+  {
+    "Accused Witch": "Lilly, Jane",
+    "Residence": "Reading",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 98
+  },
+  {
+    "Accused Witch": "Marston, Mary",
+    "Residence": "Andover",
+    "Month of Accusation": 8,
+    "Month of Execution": "",
+    "Sort": 99
+  },
+  {
+    "Accused Witch": "Martin, Susannah",
+    "Residence": "Amesbury",
+    "Month of Accusation": 4,
+    "Month of Execution": 7,
+    "Sort": 100
+  },
+  {
+    "Accused Witch": "Morey, Sarah",
+    "Residence": "Beverly",
+    "Month of Accusation": 4,
+    "Month of Execution": "",
+    "Sort": 101
+  },
+  {
+    "Accused Witch": "Nurse, Rebecca",
+    "Residence": "Salem Village",
+    "Month of Accusation": 3,
+    "Month of Execution": 7,
+    "Sort": 102
+  },
+  {
+    "Accused Witch": "Osborne, Sarah",
+    "Residence": "Salem Village",
+    "Month of Accusation": 2,
+    "Month of Execution": "",
+    "Sort": 103
+  },
+  {
+    "Accused Witch": "Osgood, Mary",
+    "Residence": "Andover",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 104
+  },
+  {
+    "Accused Witch": "Paine, Elizabeth",
+    "Residence": "Charlestown",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 105
+  },
+  {
+    "Accused Witch": "Parker, Alice",
+    "Residence": "Salem Town",
+    "Month of Accusation": 5,
+    "Month of Execution": 9,
+    "Sort": 106
+  },
+  {
+    "Accused Witch": "Parker, Mary",
+    "Residence": "Andover",
+    "Month of Accusation": 9,
+    "Month of Execution": 9,
+    "Sort": 107
+  },
+  {
+    "Accused Witch": "Parker, Sarah",
+    "Residence": "Andover",
+    "Month of Accusation": -1,
+    "Month of Execution": "",
+    "Sort": 108
+  },
+  {
+    "Accused Witch": "Pease, Sarah",
+    "Residence": "Salem Town",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 109
+  },
+  {
+    "Accused Witch": "Penney, Joan",
+    "Residence": "Gloucester",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 110
+  },
+  {
+    "Accused Witch": "Post, Hannah",
+    "Residence": "Boxford",
+    "Month of Accusation": 8,
+    "Month of Execution": "",
+    "Sort": 111
+  },
+  {
+    "Accused Witch": "Post, Mary",
+    "Residence": "Rowley",
+    "Month of Accusation": 8,
+    "Month of Execution": "",
+    "Sort": 112
+  },
+  {
+    "Accused Witch": "Post, Susannah",
+    "Residence": "Andover",
+    "Month of Accusation": 8,
+    "Month of Execution": "",
+    "Sort": 113
+  },
+  {
+    "Accused Witch": "Prince, Margaret",
+    "Residence": "Gloucester",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 114
+  },
+  {
+    "Accused Witch": "Proctor, Benjamin",
+    "Residence": "Salem Town",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 115
+  },
+  {
+    "Accused Witch": "Proctor, Elizabeth",
+    "Residence": "Salem Town",
+    "Month of Accusation": 4,
+    "Month of Execution": "",
+    "Sort": 116
+  },
+  {
+    "Accused Witch": "Proctor, John",
+    "Residence": "Salem Town",
+    "Month of Accusation": 4,
+    "Month of Execution": 8,
+    "Sort": 117
+  },
+  {
+    "Accused Witch": "Proctor, Sarah",
+    "Residence": "Salem Town",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 118
+  },
+  {
+    "Accused Witch": "Proctor, William",
+    "Residence": "Salem Town",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 119
+  },
+  {
+    "Accused Witch": "Pudeator, Ann",
+    "Residence": "Salem Town",
+    "Month of Accusation": 5,
+    "Month of Execution": 9,
+    "Sort": 120
+  },
+  {
+    "Accused Witch": "Redd, Wilmott",
+    "Residence": "Marblehead",
+    "Month of Accusation": 5,
+    "Month of Execution": 9,
+    "Sort": 121
+  },
+  {
+    "Accused Witch": "Rice, Sarah",
+    "Residence": "Reading",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 122
+  },
+  {
+    "Accused Witch": "Roots, Susannah",
+    "Residence": "Beverly",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 123
+  },
+  {
+    "Accused Witch": "Row, Abigail",
+    "Residence": "Gloucester",
+    "Month of Accusation": 11,
+    "Month of Execution": "",
+    "Sort": 124
+  },
+  {
+    "Accused Witch": "Row, Mary",
+    "Residence": "Gloucester",
+    "Month of Accusation": -1,
+    "Month of Execution": "",
+    "Sort": 125
+  },
+  {
+    "Accused Witch": "Salter, Henry",
+    "Residence": "Andover",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 126
+  },
+  {
+    "Accused Witch": "Sawdy, John",
+    "Residence": "Andover",
+    "Month of Accusation": -1,
+    "Month of Execution": "",
+    "Sort": 127
+  },
+  {
+    "Accused Witch": "Scott, Margaret",
+    "Residence": "Rowley",
+    "Month of Accusation": 8,
+    "Month of Execution": 9,
+    "Sort": 128
+  },
+  {
+    "Accused Witch": "Sears, Ann",
+    "Residence": "Woburn",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 129
+  },
+  {
+    "Accused Witch": "Somes, Abigail",
+    "Residence": "Salem Town",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 130
+  },
+  {
+    "Accused Witch": "Sparks, Martha",
+    "Residence": "Chelmsford",
+    "Month of Accusation": -1,
+    "Month of Execution": "",
+    "Sort": 131
+  },
+  {
+    "Accused Witch": "Taylor, Mary",
+    "Residence": "Reading",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 132
+  },
+  {
+    "Accused Witch": "Tituba Indian",
+    "Residence": "Salem Village",
+    "Month of Accusation": 2,
+    "Month of Execution": "",
+    "Sort": 133
+  },
+  {
+    "Accused Witch": "Tookey, Job",
+    "Residence": "Beverly",
+    "Month of Accusation": 6,
+    "Month of Execution": "",
+    "Sort": 134
+  },
+  {
+    "Accused Witch": "Toothaker, Margaret",
+    "Residence": "Billerica",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 135
+  },
+  {
+    "Accused Witch": "Toothaker, Mary",
+    "Residence": "Billerica",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 136
+  },
+  {
+    "Accused Witch": "Toothaker, Roger",
+    "Residence": "Billerica",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 137
+  },
+  {
+    "Accused Witch": "Tyler, Hannah",
+    "Residence": "Andover",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 138
+  },
+  {
+    "Accused Witch": "Tyler, Johanna",
+    "Residence": "Andover",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 139
+  },
+  {
+    "Accused Witch": "Tyler, Martha",
+    "Residence": "Andover",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 140
+  },
+  {
+    "Accused Witch": "Tyler, Mary",
+    "Residence": "Andover",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 141
+  },
+  {
+    "Accused Witch": "Vincent, Rachel",
+    "Residence": "Gloucester",
+    "Month of Accusation": -1,
+    "Month of Execution": "",
+    "Sort": 142
+  },
+  {
+    "Accused Witch": "Wardwell, Mercy",
+    "Residence": "Andover",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 143
+  },
+  {
+    "Accused Witch": "Wardwell, Samuel",
+    "Residence": "Andover",
+    "Month of Accusation": 9,
+    "Month of Execution": 9,
+    "Sort": 144
+  },
+  {
+    "Accused Witch": "Wardwell, Sarah",
+    "Residence": "Andover",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 145
+  },
+  {
+    "Accused Witch": "Warren, Mary",
+    "Residence": "Salem Town",
+    "Month of Accusation": 4,
+    "Month of Execution": "",
+    "Sort": 146
+  },
+  {
+    "Accused Witch": "Whittredge, Mary",
+    "Residence": "Salem Village",
+    "Month of Accusation": 5,
+    "Month of Execution": "",
+    "Sort": 147
+  },
+  {
+    "Accused Witch": "Wilds, Sarah",
+    "Residence": "Topsfield",
+    "Month of Accusation": 4,
+    "Month of Execution": 7,
+    "Sort": 148
+  },
+  {
+    "Accused Witch": "Wilford, Ruth",
+    "Residence": "Haverhill",
+    "Month of Accusation": 8,
+    "Month of Execution": "",
+    "Sort": 149
+  },
+  {
+    "Accused Witch": "Willard, John",
+    "Residence": "Salem Village",
+    "Month of Accusation": 5,
+    "Month of Execution": 8,
+    "Sort": 150
+  },
+  {
+    "Accused Witch": "Wilson, Sarah Jr.",
+    "Residence": "Andover",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 151
+  },
+  {
+    "Accused Witch": "Wilson, Sarah Sr.",
+    "Residence": "Andover",
+    "Month of Accusation": 9,
+    "Month of Execution": "",
+    "Sort": 152
+  }
+]
